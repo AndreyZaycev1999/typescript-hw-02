@@ -1,0 +1,12 @@
+.modal {
+    text-align: center;
+}
+
+.modalImage {
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-top: 10%;
+
+}
