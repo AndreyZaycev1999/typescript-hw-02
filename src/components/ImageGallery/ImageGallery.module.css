@@ -1,7 +1,14 @@
-.gallery {
+.imagesList {
     display: flex;
+    align-items: center;
     justify-content: center;
-    gap: 10px;
     flex-wrap: wrap;
-    list-style: none;
-}
+    gap: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .imageItem {
+    width: 320px;
+    height: 240px;
+  }

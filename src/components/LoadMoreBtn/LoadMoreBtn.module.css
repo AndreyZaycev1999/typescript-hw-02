@@ -1,0 +1,16 @@
+.loadMoreBtn {
+    padding: 10px 30px;
+    margin-bottom: 40px;
+    color: aliceblue;
+    font-size: 16px;
+    background-color: rgb(48, 48, 189);
+    text-align: center;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+      }
+  
+  .btnContainer {
+    text-align: center;
+  }
